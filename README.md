@@ -1,11 +1,11 @@
 # m2i-jour1
 
-Mon fichier README.md --- Edition local LOCAL
+Mon fichier README.md ---  LOCAL + GITHUB
 
 blabla
 
 je fais un test
 
 LOCAL
-LOCAL
+LOCAL + GITHUB
 LOCAL
